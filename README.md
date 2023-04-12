@@ -19,9 +19,6 @@
 [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/)<!-- vagrant -->
 
 ## Requirements
-<!-- cSpell:locale es, en -->
-<!-- cSpell:disable -->
-<!-- cSpell:enableCompoundWords-->
 
 - `python3` 3.8
 - `numpy` 1.19.2
